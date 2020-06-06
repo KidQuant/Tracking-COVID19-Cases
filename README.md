@@ -1,7 +1,9 @@
 
 # Tracking COVID-19 Cases Globally
 
-THis project inolves using data science techniques to construct a rate at which confirmed cases of COVID-19 are growing in various countries around the world.
+This project inolves using data science techniques to construct a rate at which confirmed cases of COVID-19 are growing in various countries around the world.
+
+![](https://kidquant.com/post/images/images/tracking-covid-cases/SIRanimationlow.gif)
 
 ## Goal
 
